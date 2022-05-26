@@ -10,8 +10,13 @@
     padding: 40px 165px;
 }
 
-main{
-    width: 960px;
+body {
+    width: 940px;
+    align-items: center;
+}
+
+.conteudo {
+    width: 940px;
 }
 
 .conteudo-principal {
@@ -26,7 +31,7 @@ main{
     position: absolute;
     width: 991.63px;
     height: 936.92px;
-    left: 100px;
+    left: 357px;
     top: -146.13px;
 }
 

@@ -10,16 +10,24 @@
     padding: 40px 165px;
 }
 
+main{
+    width: 960px;
+}
+
 .conteudo-principal {
     display: flexbox;
     position: relative;
     width: 475px;
     height: 359px;
+    justify-content: space-around;
 }
 
-.conteudo-principal-imagem {
-    display: flexbox;
-    padding-left: 0;
+.conteudo-imagem {
+    position: absolute;
+    width: 991.63px;
+    height: 936.92px;
+    left: 100px;
+    top: -146.13px;
 }
 
 .conteudo-secundario {

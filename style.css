@@ -10,13 +10,8 @@
     padding: 40px 165px;
 }
 
-body {
-    width: 940px;
-    align-items: center;
-}
-
-.conteudo {
-    width: 940px;
+.cabecalho-botao {
+    margin-left: 100px;
 }
 
 .conteudo-principal {
@@ -29,9 +24,9 @@ body {
 
 .conteudo-imagem {
     position: absolute;
-    width: 991.63px;
-    height: 936.92px;
-    left: 357px;
+    width: 700px;
+    height: 700px;
+    left: 649px;
     top: -146.13px;
 }
 
